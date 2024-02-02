@@ -1,2 +1,2 @@
 # hyperblog
-Un blog increible para el curso en el Platzi
+Un blog increible para el curso de Platzi
