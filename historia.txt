@@ -2,8 +2,8 @@ Es un archivo. lo tengo en mi ordenador.
 I am follwing the course on platzi.
 third line.
 
-this doc serves for track changes and practice the github course
+This document serves to track changes and practice the github course.
 
-This belongs to the branch1
+This belongs to the branch1.
 
-new line
+New line.
